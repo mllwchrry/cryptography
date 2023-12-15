@@ -1,0 +1,24 @@
+[submodule "my-big-int"]
+	path = my-big-int
+	url = https://github.com/mllwchrry/my-big-int
+[submodule "s-p-box"]
+	path = s-p-box
+	url = https://github.com/mllwchrry/s-p-box
+[submodule "key-test-fips-140"]
+	path = key-test-fips-140
+	url = https://github.com/mllwchrry/key-test-fips-140
+[submodule "sha-1"]
+	path = sha-1
+	url = https://github.com/mllwchrry/sha-1
+[submodule "sha-3"]
+	path = sha-3
+	url = https://github.com/mllwchrry/sha-3
+[submodule "elliptic-curve-wrapper"]
+	path = elliptic-curve-wrapper
+	url = https://github.com/mllwchrry/elliptic-curve-wrapper
+[submodule "digital-signature"]
+	path = digital-signature
+	url = https://github.com/mllwchrry/digital-signature
+[submodule "elgamal"]
+	path = elgamal
+	url = https://github.com/mllwchrry/elgamal
